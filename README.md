@@ -1,4 +1,4 @@
- Hi, I’m @Indira 👋
+ Hi, I’m Indira 👋
  I’m a manual testing engineer 😄
 - 📫 How to reach me bizanovaindira@gmail.com
 I like to learn new technologies and develop new skills.💞️
